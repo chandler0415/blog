@@ -152,6 +152,7 @@ class Contacts extends React.Component {
       <div onClick={this.handleClick}></div>
     );
   }
+}
 ```
 
 当然，`React.Component`有三种手动绑定方法：可以在构造函数中完成绑定，也可以在调用时使用`method.bind(this)`来完成绑定，还可以使用arrow function来绑定。拿上例的`handleClick`函数来说，其绑定可以有：
