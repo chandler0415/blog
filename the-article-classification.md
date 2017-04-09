@@ -37,6 +37,7 @@
 
 ### git or github
 * [gh-page branch](https://gist.github.com/chrisjacob/825950)
+* [git subtree用法](http://www.cnblogs.com/jingwhale/p/6054492.html)
 
 ### 函数式编程
 * [函数式编程之柯里化和组合详解](https://segmentfault.com/a/1190000007328944)
