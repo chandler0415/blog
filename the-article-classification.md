@@ -34,6 +34,7 @@
 ### CSS
 * [12款超实用的CSS3汉堡包菜单按钮变形动画DEMO演示](http://www.html5tricks.com/demo/css3-hamburger-button/index.html)
 * [CSS实现单行、多行文本溢出显示省略号（…）](http://www.daqianduan.com/6179.html)
+* [flexboxfrogy 通过小游戏学习flex](http://flexboxfroggy.com/#zh-cn)
 
 ### git or github
 * [gh-page branch](https://gist.github.com/chrisjacob/825950)
