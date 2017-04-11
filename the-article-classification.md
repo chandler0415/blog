@@ -52,6 +52,10 @@
 * [为什么 ReactJS 不适合复杂的前端项目？](http://insights.thoughtworkers.org/more-than-react-1/)
 * [React-Keeper : 比React-Router更适合你的单页面路由器](https://zhuanlan.zhihu.com/p/25081540?from=timeline&isappinstalled=0)
 * [React之ref详细用法](https://segmentfault.com/a/1190000008665915)
+* [React 的生命周期的使用场景](http://johannlai.com/2017/04/08/React%20Lifecycle%20Methods/)
+
+### 工程方案
+* [构建自适应的手机页面](https://segmentfault.com/a/1190000002698944)
 
 ###  其它
 * [大公司里怎样开发和部署前端代码？](https://github.com/fouber/blog/issues/6)
