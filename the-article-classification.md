@@ -40,6 +40,7 @@
 * [12款超实用的CSS3汉堡包菜单按钮变形动画DEMO演示](http://www.html5tricks.com/demo/css3-hamburger-button/index.html)
 * [CSS实现单行、多行文本溢出显示省略号（…）](http://www.daqianduan.com/6179.html)
 * [flexboxfrogy 通过小游戏学习flex](http://flexboxfroggy.com/#zh-cn)
+* [可视化格式模型——控制盒生成](http://www.ayqy.net/doc/css2-1/visuren.html#inline-boxes)
 
 ### git or github
 * [gh-page branch](https://gist.github.com/chrisjacob/825950)
@@ -57,9 +58,15 @@
 * [React-Keeper : 比React-Router更适合你的单页面路由器](https://zhuanlan.zhihu.com/p/25081540?from=timeline&isappinstalled=0)
 * [React之ref详细用法](https://segmentfault.com/a/1190000008665915)
 * [React 的生命周期的使用场景](http://johannlai.com/2017/04/08/React%20Lifecycle%20Methods/)
+* [React进阶—性能优化](https://segmentfault.com/a/1190000008925295)
+
+### 构建工具
+* [基于webpack2的项目过程构建](https://github.com/ddtf/blog/blob/master/2017-3/webpack2%E5%9C%A8%E9%A1%B9%E7%9B%AE%E4%B8%AD%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB.md?from=timeline&isappinstalled=0)
+* [「前端」看懂前端脚手架你需要这篇webpack](https://segmentfault.com/a/1190000008683588)
 
 ### 工程方案
 * [构建自适应的手机页面](https://segmentfault.com/a/1190000002698944)
+
 
 ###  其它
 * [大公司里怎样开发和部署前端代码？](https://github.com/fouber/blog/issues/6)
