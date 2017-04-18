@@ -59,6 +59,7 @@
 * [React之ref详细用法](https://segmentfault.com/a/1190000008665915)
 * [React 的生命周期的使用场景](http://johannlai.com/2017/04/08/React%20Lifecycle%20Methods/)
 * [React进阶—性能优化](https://segmentfault.com/a/1190000008925295)
+* [flux vs redux vs mobx](http://zhenhua-lee.github.io/react/state-manage.html?utm_source=tuicool&utm_medium=referral)
 
 ### 构建工具
 * [基于webpack2的项目过程构建](https://github.com/ddtf/blog/blob/master/2017-3/webpack2%E5%9C%A8%E9%A1%B9%E7%9B%AE%E4%B8%AD%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB.md?from=timeline&isappinstalled=0)
