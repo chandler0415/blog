@@ -70,6 +70,7 @@
 
 ### 工程方案
 * [构建自适应的手机页面](https://segmentfault.com/a/1190000002698944)
+* [Why use static types in JavaScript? ](https://medium.freecodecamp.com/why-use-static-types-in-javascript-part-1-8382da1e0adb)
 
 
 ###  其它
