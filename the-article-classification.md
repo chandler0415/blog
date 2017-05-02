@@ -22,6 +22,7 @@
 * [改造你的网站，变身 PWA](https://segmentfault.com/a/1190000008880637)
 * [深入理解 JavaScript 中的函数](https://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651493918&idx=1&sn=c3e46ba39f6164d6d794814e0815d87b&chksm=80f19fd6b78616c0866991c6569d4a1042acfc3c0bdb6db332d623b80a77b01d066664de3540&scene=0&key=779444c854969d5a7856e8ccfaa2a4ada12922e366981f6a22559de0aaa60e95ef22136dfc15adc7a9179ea2de66663a7a74c66711f569eff9f35962da0522602387e5e31e1b8abf671dc012660d583c&ascene=0&uin=MTEyODM3MjU%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.12.3+build(16D32)&version=12020110&nettype=WIFI&fontScale=100&pass_ticket=H7F3n%2BtMGl4ini7hqJ1qyhRDMfq%2FOvxryfkRIN9Y%2F9o%3D)
 * [Array.prototype.slice及其他Array方法](https://segmentfault.com/a/1190000008940666)
+* [随笔分类 - Ajax/Fetch](http://www.cnblogs.com/snandy/category/285215.html)
 
 ### HTML
 * [HTML5概念](https://developer.mozilla.org/zh-CN/docs/Web/Guide/HTML/HTML5)
