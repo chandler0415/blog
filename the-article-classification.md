@@ -43,6 +43,7 @@
 * [CSS实现单行、多行文本溢出显示省略号（…）](http://www.daqianduan.com/6179.html)
 * [flexboxfrogy 通过小游戏学习flex](http://flexboxfroggy.com/#zh-cn)
 * [可视化格式模型——控制盒生成](http://www.ayqy.net/doc/css2-1/visuren.html#inline-boxes)
+* [弹性盒模型Flex指南](http://louiszhai.github.io/2017/01/13/flex/)
 
 ### git or github
 * [gh-page branch](https://gist.github.com/chrisjacob/825950)
