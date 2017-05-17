@@ -46,6 +46,7 @@
 * [可视化格式模型——控制盒生成](http://www.ayqy.net/doc/css2-1/visuren.html#inline-boxes)
 * [弹性盒模型Flex指南](http://louiszhai.github.io/2017/01/13/flex/)
 * [CSS 变量教程](http://www.ruanyifeng.com/blog/2017/05/css-variables.html)
+* [webkit-css-resource](https://trac.webkit.org/browser/trunk/Source/WebCore/css/html.css)
 
 ### git or github
 * [gh-page branch](https://gist.github.com/chrisjacob/825950)
