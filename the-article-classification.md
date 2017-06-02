@@ -47,6 +47,7 @@
 * [弹性盒模型Flex指南](http://louiszhai.github.io/2017/01/13/flex/)
 * [CSS 变量教程](http://www.ruanyifeng.com/blog/2017/05/css-variables.html)
 * [webkit-2.17.2-css-resource](https://trac.webkit.org/browser/webkit/releases/WebKitGTK/webkit-2.17.2/Source/WebCore/css/html.css)
+* [Notification Styles Inspiration](https://tympanus.net/Development/NotificationStyles/index.html)
 
 ### git or github
 * [gh-page branch](https://gist.github.com/chrisjacob/825950)
