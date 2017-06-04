@@ -31,6 +31,9 @@
 * [h5直播开发之旅总结](https://mp.weixin.qq.com/s?__biz=MzAwNDcyNjI3OA==&mid=2650839799&idx=1&sn=92c9033329e5bdfc57a3a138d67ad5bd&chksm=80d3b19eb7a43888e61806dcf0278a0400dfbb6b1f923344815db66e770fbc7a3971a14500fb&scene=0&key=1020c6e683cdee292d85ddeae96ae2453e850cbaea9b768ca60abd849aba52dba2206b1125929e0555d4c11de95215211ceb50678d722ca1deb7014437787b7d1b5fde4567686f3b8b60a0db8e8308e1&ascene=0&uin=MTEyODM3MjU%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.12.3+build(16D32)&version=12010310&nettype=WIFI&fontScale=100&pass_ticket=mHRtzZTrxBhqYf8y%2FimXJZhs7rULeD7jSJhT0PmTquk%3D)
 * [我所知道的几种display:table-cell的应用](http://www.zhangxinxu.com/wordpress/2010/10/%E6%88%91%E6%89%80%E7%9F%A5%E9%81%93%E7%9A%84%E5%87%A0%E7%A7%8Ddisplaytable-cell%E7%9A%84%E5%BA%94%E7%94%A8/)
 
+### 算法(Algorithm)
+* [建立动态规划状态转移方程的练习](http://www.raychase.net/3035)
+
 ### HTTP
 * [跟着 Github 学习 Restful HTTP API 设计](https://segmentfault.com/p/1210000008733982/read)
 * [正向代理与反向代理有什么区别](http://mp.weixin.qq.com/s/ikrI3rmSYs83wdSWqq2QIg)
