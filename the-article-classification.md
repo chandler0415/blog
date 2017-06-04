@@ -13,14 +13,14 @@
 * [跟月影学 JavaScript](https://ppt.baomitu.com/d/0b2e616b#/)
 * [HTML 邮件兼容问题与解决方案](https://segmentfault.com/a/1190000008864116)
 * [从 Bundle 文件看 Webpack 模块机制](https://zhuanlan.zhihu.com/p/25954788)
-* [如何使JavaScript更高效](https://mp.weixin.qq.com/s?__biz=MzAwNDcyNjI3OA==&mid=2650839833&idx=1&sn=5f9875dad9a30a42fde71cdc73fe1c80&chksm=80d3b070b7a43966e60db043f36e4546cd26f8c296fc0f869678ea157bf47efa934157653e2d&scene=0&key=04b8921fa35d3638e7d42cac7701bdb033285ff357b8c6a3942295b519962fde1c95df53d8f00b8d381dc141014f58e46856d7e1c8b2c22a88443be479abb116e6734ba5c3f75a5be6416fba5cf0d9ac&ascene=0&uin=MTEyODM3MjU%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.12.3+build(16D32)&version=12020010&nettype=WIFI&fontScale=100&pass_ticket=UoH1PggGCQJVh7HRphfdNBDqukwNH4xvZG5BBguqpe4%3D)
-* [深入理解 JavaScript 中的 JSON](https://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651493909&idx=1&sn=4986f564a369e35032427b65b5ede822&chksm=80f19fddb78616cbc6fa50b9c0dcd472bc32be9e09cdec1c8594a60c99b36d22dd91eb85a9a4&scene=0&key=779444c854969d5afe2cf605fa2ea6e6b09f9698817da19fd9cc905856449908a2592050fe5a5cb9f1c7d27c90b4ffb9ec5b928a5467c5e55afab87f570774e512c3e9980a0dd4ca30dd30bbd2055956&ascene=0&uin=MTEyODM3MjU%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.12.3+build(16D32)&version=12020110&nettype=WIFI&fontScale=100&pass_ticket=H89beKhjdRb8xS7hmqEqirEPJ1U03OH3%2BGkBw3pF%2BXg%3D)
+* [如何使JavaScript更高效](https://mp.weixin.qq.com/s?__biz=MzAwNDcyNjI3OA==&mid=2650839833&idx=1&sn=5f9875dad9a30a42fde71cdc73fe1c80&chksm=80d3b070b7a43966e60db043f36e4546cd26f8c296fc0f869678ea157bf47efa934157653e2d&scene=0&key=04b8921fa35d3638e7d42cac7701bdb033285ff357b8c6a3942295b519962fde1c95df53d8f00b8d381dc141014f58e46856d7e1c8b2c22a88443be479abb116e6734ba5c3f75a5be6416fba5cf0d9ac&ascene=0&uin=MTEyODM3MjU%3D)
+* [深入理解 JavaScript 中的 JSON](https://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651493909&idx=1&sn=4986f564a369e35032427b65b5ede822&chksm=80f19fddb78616cbc6fa50b9c0dcd472bc32be9e09cdec1c8594a60c99b36d22dd91eb85a9a4&scene=0&key=779444c854969d5afe2cf605fa2ea6e6b09f9698817da19fd9cc905856449908a2592050fe5a5cb9f1c7d27c90b4ffb9ec5b928a5467c5e55afab87f570774e512c3e9980a0dd4ca30dd30bbd2055956&ascene=0&uin=MTEyODM3MjU%3D)
 * [浅谈前端状态管理（上）](https://zhuanlan.zhihu.com/p/25800767)
 * [替换元素和非替换元素的学习](http://www.cnblogs.com/WebShare-hilda/p/4713890.html)
 * [一道面试题引发的对javascript类型转换的思考](http://www.cnblogs.com/coco1s/p/6509141.html)
 * [基于webpack2的项目过程构建](https://github.com/ddtf/blog/blob/master/2017-3/webpack2%E5%9C%A8%E9%A1%B9%E7%9B%AE%E4%B8%AD%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB.md?from=timeline&isappinstalled=0)
 * [改造你的网站，变身 PWA](https://segmentfault.com/a/1190000008880637)
-* [深入理解 JavaScript 中的函数](https://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651493918&idx=1&sn=c3e46ba39f6164d6d794814e0815d87b&chksm=80f19fd6b78616c0866991c6569d4a1042acfc3c0bdb6db332d623b80a77b01d066664de3540&scene=0&key=779444c854969d5a7856e8ccfaa2a4ada12922e366981f6a22559de0aaa60e95ef22136dfc15adc7a9179ea2de66663a7a74c66711f569eff9f35962da0522602387e5e31e1b8abf671dc012660d583c&ascene=0&uin=MTEyODM3MjU%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.12.3+build(16D32)&version=12020110&nettype=WIFI&fontScale=100&pass_ticket=H7F3n%2BtMGl4ini7hqJ1qyhRDMfq%2FOvxryfkRIN9Y%2F9o%3D)
+* [深入理解 JavaScript 中的函数](https://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651493918&idx=1&sn=c3e46ba39f6164d6d794814e0815d87b&chksm=80f19fd6b78616c0866991c6569d4a1042acfc3c0bdb6db332d623b80a77b01d066664de3540&scene=0&key=779444c854969d5a7856e8ccfaa2a4ada12922e366981f6a22559de0aaa60e95ef22136dfc15adc7a9179ea2de66663a7a74c66711f569eff9f35962da0522602387e5e31e1b8abf671dc012660d583c)
 * [Array.prototype.slice及其他Array方法](https://segmentfault.com/a/1190000008940666)
 * [随笔分类 - Ajax/Fetch](http://www.cnblogs.com/snandy/category/285215.html)
 * [《程序员》精选：在Node.js中看JavaScript的引用](http://geek.csdn.net/news/detail/188258)
@@ -28,8 +28,9 @@
 
 ### HTML
 * [HTML5概念](https://developer.mozilla.org/zh-CN/docs/Web/Guide/HTML/HTML5)
-* [h5直播开发之旅总结](https://mp.weixin.qq.com/s?__biz=MzAwNDcyNjI3OA==&mid=2650839799&idx=1&sn=92c9033329e5bdfc57a3a138d67ad5bd&chksm=80d3b19eb7a43888e61806dcf0278a0400dfbb6b1f923344815db66e770fbc7a3971a14500fb&scene=0&key=1020c6e683cdee292d85ddeae96ae2453e850cbaea9b768ca60abd849aba52dba2206b1125929e0555d4c11de95215211ceb50678d722ca1deb7014437787b7d1b5fde4567686f3b8b60a0db8e8308e1&ascene=0&uin=MTEyODM3MjU%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.12.3+build(16D32)&version=12010310&nettype=WIFI&fontScale=100&pass_ticket=mHRtzZTrxBhqYf8y%2FimXJZhs7rULeD7jSJhT0PmTquk%3D)
+* [h5直播开发之旅总结](https://mp.weixin.qq.com/s?__biz=MzAwNDcyNjI3OA==&mid=2650839799&idx=1&sn=92c9033329e5bdfc57a3a138d67ad5bd&chksm=80d3b19eb7a43888e61806dcf0278a0400dfbb6b1f923344815db66e770fbc7a3971a14500fb&scene=0&key=1020c6e683cdee292d85ddeae96ae2453e850cbaea9b768ca60abd849aba52dba2206b1125929e0555d4c11de95215211ceb50678d722ca1deb7014437787b7d1b5fde4567686f3b8b60a0db8e8308e1&ascene=0&uin=MTEyODM3MjU%3D)
 * [我所知道的几种display:table-cell的应用](http://www.zhangxinxu.com/wordpress/2010/10/%E6%88%91%E6%89%80%E7%9F%A5%E9%81%93%E7%9A%84%E5%87%A0%E7%A7%8Ddisplaytable-cell%E7%9A%84%E5%BA%94%E7%94%A8/)
+* [从 JavaScript 作用域说开去](https://mp.weixin.qq.com/s?__biz=MzI4MDYwMDc3MQ==&mid=2247483959&idx=1&sn=d250a6818c9ca7ea1357965995645edd)
 
 ### 算法(Algorithm)
 * [建立动态规划状态转移方程的练习](http://www.raychase.net/3035)
