@@ -79,6 +79,7 @@
 ### 构建工具
 * [基于webpack2的项目过程构建](https://github.com/ddtf/blog/blob/master/2017-3/webpack2%E5%9C%A8%E9%A1%B9%E7%9B%AE%E4%B8%AD%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB.md?from=timeline&isappinstalled=0)
 * [「前端」看懂前端脚手架你需要这篇webpack](https://segmentfault.com/a/1190000008683588)
+* [搜罗一切webpack的好文章好工具](https://github.com/webpack-china/awesome-webpack-cn)
 
 ### 工程方案
 * [构建自适应的手机页面](https://segmentfault.com/a/1190000002698944)
