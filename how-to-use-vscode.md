@@ -19,3 +19,12 @@
 15. `cmd+2` go to the center editor group;  
 16. `cmd+3` go to the rightmost editor group;  
 
+### 关于vscode自带的`emmet`
+一直觉得有bug，有时会失效，不清楚是插件配置冲突还是如何，今天又突然全部失效，现通过配置快捷键方式解决该问题，配置如下：
+
+```
+{
+  "key": "tab",
+  "command": "editor.emmet.action.expandAbbreviation",
+  "when": "config.emmet.trggerExpansionOnTab && editorTextFocus && !editorHasMutipleSelections && !editorHasSelection && !editorReadonly && !editorTabMovesFocus"
+}
