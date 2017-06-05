@@ -25,6 +25,7 @@
 * [随笔分类 - Ajax/Fetch](http://www.cnblogs.com/snandy/category/285215.html)
 * [《程序员》精选：在Node.js中看JavaScript的引用](http://geek.csdn.net/news/detail/188258)
 * [Why use static types in JavaScript? (A 4-part primer on static typing with Flow)](https://medium.freecodecamp.com/why-use-static-types-in-javascript-part-1-8382da1e0adb)
+* [JavaScript初学者必看“new”](https://blog.fundebug.com/2017/06/02/javascript-new-for-beginner/)
 
 ### HTML
 * [HTML5概念](https://developer.mozilla.org/zh-CN/docs/Web/Guide/HTML/HTML5)
