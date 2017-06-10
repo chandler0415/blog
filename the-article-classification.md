@@ -45,6 +45,7 @@
 ### Node.js
 * [除夕乱谈web微框架，从koa说起](https://zhuanlan.zhihu.com/p/20558764?columnSlug=browsnet)
 * [在Node.js中看JavaScript的引用](http://developer.51cto.com/art/201704/536632.htm)
+* [为什么要用 Node.js](https://bestswifter.com/nodejs/)
 
 ### CSS
 * [12款超实用的CSS3汉堡包菜单按钮变形动画DEMO演示](http://www.html5tricks.com/demo/css3-hamburger-button/index.html)
