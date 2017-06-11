@@ -6,3 +6,4 @@
 * [Node.js面试题之2017](https://segmentfault.com/a/1190000009009792)
 * [阿里前端笔试总结](http://www.cnblogs.com/yugege/p/5292612.html)
 * [Angular的12个经典问题，看看你能答对几个？（文末附带Angular测试）](http://www.cnblogs.com/powertoolsteam/p/angular2.html)
+* [前端面试那些事儿](https://segmentfault.com/a/1190000009724641)
