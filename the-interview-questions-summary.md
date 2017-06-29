@@ -10,3 +10,4 @@
 
 ### javascript基础
 * [一道 JS 面试题所引发的 "血案"，透过现象寻本质，再从本质看现象](https://juejin.im/entry/58b4c65344d90400685c2bdf)
+* [Javascript你必须要知道的面试题](http://www.cnblogs.com/yzhihao/p/6530564.html)
