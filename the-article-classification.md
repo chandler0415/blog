@@ -67,6 +67,7 @@
 * [git subtree用法](http://www.cnblogs.com/jingwhale/p/6054492.html)
 * [如何用Github的gh-pages分支展示自己的项目](http://www.cnblogs.com/MuYunyun/p/6082359.html)
 * [Git详解以及使用遇到问题解决](http://www.jianshu.com/p/8f0433090e2b)
+* [[Git高级教程(二)] 远程仓库版本回退方法](http://blog.csdn.net/fuchaosz/article/details/52170105)
 
 ### 函数式编程
 * [函数式编程之柯里化和组合详解](https://segmentfault.com/a/1190000007328944)
