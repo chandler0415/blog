@@ -25,12 +25,16 @@
 * [随笔分类 - Ajax/Fetch](http://www.cnblogs.com/snandy/category/285215.html)
 * [《程序员》精选：在Node.js中看JavaScript的引用](http://geek.csdn.net/news/detail/188258)
 * [Why use static types in JavaScript? (A 4-part primer on static typing with Flow)](https://medium.freecodecamp.com/why-use-static-types-in-javascript-part-1-8382da1e0adb)
+* [JavaScript初学者必看“new”](https://blog.fundebug.com/2017/06/02/javascript-new-for-beginner/)
+* [JavaScript中8个常见的陷阱](https://blog.fundebug.com/2017/06/28/who-said-js-was-easy/)
 
-### HTML
+### HTML5
 * [HTML5概念](https://developer.mozilla.org/zh-CN/docs/Web/Guide/HTML/HTML5)
 * [h5直播开发之旅总结](https://mp.weixin.qq.com/s?__biz=MzAwNDcyNjI3OA==&mid=2650839799&idx=1&sn=92c9033329e5bdfc57a3a138d67ad5bd&chksm=80d3b19eb7a43888e61806dcf0278a0400dfbb6b1f923344815db66e770fbc7a3971a14500fb&scene=0&key=1020c6e683cdee292d85ddeae96ae2453e850cbaea9b768ca60abd849aba52dba2206b1125929e0555d4c11de95215211ceb50678d722ca1deb7014437787b7d1b5fde4567686f3b8b60a0db8e8308e1&ascene=0&uin=MTEyODM3MjU%3D)
 * [我所知道的几种display:table-cell的应用](http://www.zhangxinxu.com/wordpress/2010/10/%E6%88%91%E6%89%80%E7%9F%A5%E9%81%93%E7%9A%84%E5%87%A0%E7%A7%8Ddisplaytable-cell%E7%9A%84%E5%BA%94%E7%94%A8/)
 * [从 JavaScript 作用域说开去](https://mp.weixin.qq.com/s?__biz=MzI4MDYwMDc3MQ==&mid=2247483959&idx=1&sn=d250a6818c9ca7ea1357965995645edd)
+* [原生JS中DOM节点相关API合集](https://microzz.com/2017/04/06/jsdom/)
+* [利用HTML5 Web Audio API给网页JS交互增加声音](https://segmentfault.com/p/1210000009819351/read)
 
 ### 算法(Algorithm)
 * [建立动态规划状态转移方程的练习](http://www.raychase.net/3035)
@@ -44,6 +48,8 @@
 ### Node.js
 * [除夕乱谈web微框架，从koa说起](https://zhuanlan.zhihu.com/p/20558764?columnSlug=browsnet)
 * [在Node.js中看JavaScript的引用](http://developer.51cto.com/art/201704/536632.htm)
+* [为什么要用 Node.js](https://bestswifter.com/nodejs/)
+* [Node.js 8 中的 `util.promisify`](https://segmentfault.com/a/1190000009727582)
 
 ### CSS
 * [12款超实用的CSS3汉堡包菜单按钮变形动画DEMO演示](http://www.html5tricks.com/demo/css3-hamburger-button/index.html)
@@ -54,12 +60,14 @@
 * [CSS 变量教程](http://www.ruanyifeng.com/blog/2017/05/css-variables.html)
 * [webkit-2.17.2-css-resource](https://trac.webkit.org/browser/webkit/releases/WebKitGTK/webkit-2.17.2/Source/WebCore/css/html.css)
 * [Notification Styles Inspiration](https://tympanus.net/Development/NotificationStyles/index.html)
+* [CSS阻止页面双击选中文本](http://www.cnblogs.com/ahuing/p/4546210.html)
 
 ### git or github
 * [gh-page branch](https://gist.github.com/chrisjacob/825950)
 * [git subtree用法](http://www.cnblogs.com/jingwhale/p/6054492.html)
 * [如何用Github的gh-pages分支展示自己的项目](http://www.cnblogs.com/MuYunyun/p/6082359.html)
 * [Git详解以及使用遇到问题解决](http://www.jianshu.com/p/8f0433090e2b)
+* [[Git高级教程(二)] 远程仓库版本回退方法](http://blog.csdn.net/fuchaosz/article/details/52170105)
 
 ### 函数式编程
 * [函数式编程之柯里化和组合详解](https://segmentfault.com/a/1190000007328944)
@@ -75,9 +83,13 @@
 * [flux vs redux vs mobx](http://zhenhua-lee.github.io/react/state-manage.html?utm_source=tuicool&utm_medium=referral)
 * [我们为什么选择使用react生态](https://mp.weixin.qq.com/s/zLwMt790iW9kNSRi3XEw9A )
 
+### AngularJs
+* [Angular 4 快速入门](https://segmentfault.com/a/1190000009733649)
+
 ### 构建工具
 * [基于webpack2的项目过程构建](https://github.com/ddtf/blog/blob/master/2017-3/webpack2%E5%9C%A8%E9%A1%B9%E7%9B%AE%E4%B8%AD%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB.md?from=timeline&isappinstalled=0)
 * [「前端」看懂前端脚手架你需要这篇webpack](https://segmentfault.com/a/1190000008683588)
+* [搜罗一切webpack的好文章好工具](https://github.com/webpack-china/awesome-webpack-cn)
 
 ### 工程方案
 * [构建自适应的手机页面](https://segmentfault.com/a/1190000002698944)
