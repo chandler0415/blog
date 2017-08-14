@@ -51,6 +51,7 @@
 * [在Node.js中看JavaScript的引用](http://developer.51cto.com/art/201704/536632.htm)
 * [为什么要用 Node.js](https://bestswifter.com/nodejs/)
 * [Node.js 8 中的 `util.promisify`](https://segmentfault.com/a/1190000009727582)
+* [自己总结的nodejs的错误处理](https://cnodejs.org/topic/574e84e26e66e5393082768e)
 
 ### CSS
 * [12款超实用的CSS3汉堡包菜单按钮变形动画DEMO演示](http://www.html5tricks.com/demo/css3-hamburger-button/index.html)
