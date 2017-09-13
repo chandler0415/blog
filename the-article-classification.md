@@ -28,6 +28,7 @@
 * [JavaScript初学者必看“new”](https://blog.fundebug.com/2017/06/02/javascript-new-for-beginner/)
 * [JavaScript中8个常见的陷阱](https://blog.fundebug.com/2017/06/28/who-said-js-was-easy/)
 * [史上最易读懂的 Promise 实现](https://zhuanlan.zhihu.com/p/21834559)
+* [Javascript定时器那些事儿](http://ssh.today/blog/something-about-js-timer)
 
 ### HTML5
 * [HTML5概念](https://developer.mozilla.org/zh-CN/docs/Web/Guide/HTML/HTML5)
