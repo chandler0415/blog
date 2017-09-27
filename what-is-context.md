@@ -99,11 +99,11 @@ MessageList.childContextTypes = {
 
 一旦组件定义了`contextTypes`以后，以下的勾子中就会得到一个附加的参数——`context`对象：
 
-* `[constructor(props, context)](https://facebook.github.io/react/docs/react-component.html#constructor)`
-* `[componentWillReceiveProps(nextProps, nextContext)](https://facebook.github.io/react/docs/react-component.html#componentwillreceiveprops)`
-* `[shouldComponentUpdate(nextProps, nextState, nextContext)](https://facebook.github.io/react/docs/react-component.html#shouldcomponentupdate)`
-* `[componentWillUpdate(nextProps, nextState, nextContext)](https://facebook.github.io/react/docs/react-component.html#componentwillupdate)`
-* `[componentDidUpdate(prevProps, prevState, prevContext)](https://facebook.github.io/react/docs/react-component.html#componentdidupdate)`
+* [constructor(props, context)](https://facebook.github.io/react/docs/react-component.html#constructor)
+* [componentWillReceiveProps(nextProps, nextContext)](https://facebook.github.io/react/docs/react-component.html#componentwillreceiveprops)
+* [shouldComponentUpdate(nextProps, nextState, nextContext)](https://facebook.github.io/react/docs/react-component.html#shouldcomponentupdate)
+* [componentWillUpdate(nextProps, nextState, nextContext)](https://facebook.github.io/react/docs/react-component.html#componentwillupdate)
+* [componentDidUpdate(prevProps, prevState, prevContext)](https://facebook.github.io/react/docs/react-component.html#componentdidupdate)
 
 ## 无状态组件获取**Context**方法
 
